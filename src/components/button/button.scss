@@ -1,0 +1,19 @@
+.btn {
+  background-color: #6b7280;
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  gap: 5px;
+
+  &:hover {
+    background-color: #4b5563;
+  }
+}
+
+.edit-btn {
+  background-color: var(--color-blue);
+
+  &:hover {
+    background-color: #4f46e5;
+  }
+}

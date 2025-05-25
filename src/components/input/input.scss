@@ -1,0 +1,18 @@
+/* Inputs */
+input[type="text"],
+input[type="date"],
+select {
+  padding: 10px 12px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  width: 100%;
+  font-size: 0.9rem;
+  transition: border-color 0.3s ease;
+}
+
+// input:focus,
+// select:focus {
+//   outline: none;
+//   border-color: #6366f1;
+//   box-shadow: 0 0 0 2px rgba(99, 102, 241, 0.2);
+// }
