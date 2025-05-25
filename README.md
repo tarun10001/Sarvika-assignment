@@ -26,4 +26,8 @@ This is a user management application built using **ReactJS**, **Redux**, and **
 
 ---
 
+## 🖥️ Live Demo
+
+👉 [Deployed App on Vercel](https://sarvika-assignment.vercel.app/)
+
 ## 🧩 Project Structure
